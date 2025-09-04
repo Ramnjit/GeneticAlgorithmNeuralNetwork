@@ -2,7 +2,7 @@
 
 ![fbgann-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/add2a28c-2d89-49fe-a2ee-a3920db3a47b)
 
-## 📝 Synopsis
+## 📝 Project Description
 
 This project is a Unity simulation of the classic game "Flappy Bird," where an AI agent learns to play the game on its own. The "brain" of each bird is a simple Neural Network, and the population of birds learns over successive generations using a Genetic Algorithm. Birds that fly farther without crashing are considered more "fit," and their successful "genes" (the weights of their neural network) are passed on to the next generation, gradually evolving a capable player.
 
